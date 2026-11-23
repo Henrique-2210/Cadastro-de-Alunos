@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1795476347 source:c:\users\alunos\onedrive\documents\github\cadastro-de-alunos\cadastro-de-alunos\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+
